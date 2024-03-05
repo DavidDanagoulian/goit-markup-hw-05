@@ -775,6 +775,7 @@ max-width: 264px;
 .review-form-checkbox-wrapper {
   margin-bottom: 40px;
   display: flex;
+  margin-bottom: 24px
 }
 
 .review-form-checkbox-label {
